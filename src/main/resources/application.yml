@@ -1,0 +1,8 @@
+# Server Port Setting
+server:
+  port: 8080
+
+# Spring Web App Settings
+spring:
+  main:
+    web-application-type: servlet
